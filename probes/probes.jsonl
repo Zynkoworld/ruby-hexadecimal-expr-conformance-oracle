@@ -1,0 +1,10 @@
+{"input": "Hexadecimal.new('1').to_decimal", "expect": 1, "raised": false, "task": "hexadecimal", "lang": "ruby"}
+{"input": "Hexadecimal.new('c').to_decimal", "expect": 12, "raised": false, "task": "hexadecimal", "lang": "ruby"}
+{"input": "Hexadecimal.new('10').to_decimal", "expect": 16, "raised": false, "task": "hexadecimal", "lang": "ruby"}
+{"input": "Hexadecimal.new('af').to_decimal", "expect": 175, "raised": false, "task": "hexadecimal", "lang": "ruby"}
+{"input": "Hexadecimal.new('100').to_decimal", "expect": 256, "raised": false, "task": "hexadecimal", "lang": "ruby"}
+{"input": "Hexadecimal.new('19ace').to_decimal", "expect": 105166, "raised": false, "task": "hexadecimal", "lang": "ruby"}
+{"input": "Hexadecimal.new('carrot').to_decimal", "expect": 0, "raised": false, "task": "hexadecimal", "lang": "ruby"}
+{"input": "Hexadecimal.new('000000').to_decimal", "expect": 0, "raised": false, "task": "hexadecimal", "lang": "ruby"}
+{"input": "Hexadecimal.new('ffffff').to_decimal", "expect": 16777215, "raised": false, "task": "hexadecimal", "lang": "ruby"}
+{"input": "Hexadecimal.new('ffff00').to_decimal", "expect": 16776960, "raised": false, "task": "hexadecimal", "lang": "ruby"}
